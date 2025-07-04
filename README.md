@@ -55,6 +55,7 @@ http://localhost:3000
 ---
 
 📁 Project Structure
+```
 pgsql
 Copy
 Edit
@@ -66,6 +67,8 @@ weather-app/
 ├── server.js
 ├── .env
 ├── package.json
+
+```
 
 ---
 
