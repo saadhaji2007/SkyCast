@@ -2,6 +2,7 @@
 
 SkyCast is a simple and elegant weather application that lets users check real-time weather data for any city in the world. Built using **Node.js**, **Express**, and **OpenWeatherMap API**, this project features a modern frontend and a secure backend to protect the API key.
 
+> 🔗 Live Demo: [https://skycast-pgyg.onrender.com/](https://skycast-pgyg.onrender.com/)
 ---
 
 ## 🌐 Features
@@ -50,6 +51,7 @@ Edit
 node server.js
 Open your browser and go to:
 http://localhost:3000
+---
 
 📁 Project Structure
 pgsql
@@ -64,6 +66,8 @@ weather-app/
 ├── .env
 ├── package.json
 
+---
+
 🌍 Deployment
 You can deploy this app on:
 
@@ -73,8 +77,7 @@ You can deploy this app on:
 
 🟩 [Vercel (frontend only + serverless backend)]
 
-Let me know if you'd like help deploying!
-
+---
 🧑‍💻 Developer Info
 Saad Haji
 📧 hajisaad029@gmail.com
