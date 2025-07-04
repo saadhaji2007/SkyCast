@@ -51,6 +51,7 @@ Edit
 node server.js
 Open your browser and go to:
 http://localhost:3000
+```
 ---
 
 📁 Project Structure
