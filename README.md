@@ -56,9 +56,6 @@ http://localhost:3000
 
 📁 Project Structure
 ```
-pgsql
-Copy
-Edit
 weather-app/
 ├── public/
 │   ├── index.html
