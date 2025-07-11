@@ -33,21 +33,14 @@ git clone https://github.com/saadhaji2007/skycast-weather-app.git
 cd skycast-weather-app
 
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
 
 3. Create .env File
 env
-Copy
-Edit
 WEATHER_API_KEY=your_openweathermap_api_key
 
 4. Run the Server
 bash
-Copy
-Edit
 node server.js
 Open your browser and go to:
 http://localhost:3000
